@@ -13,7 +13,7 @@
 #' @name hkarz
 #' @usage data(hkarz)
 #' @examples
-#' library(stp25)
+#' 
 #' library(broom)
 #' fit2<- glm(gruppe~tzell, hkarz, family = binomial)
 #' APA_Table(fit2)

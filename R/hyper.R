@@ -34,7 +34,7 @@
 #' @name hyper
 #' @usage data(hyper)
 #' @examples
-#' library(stp25)
+#' 
 #' head(hyper)
 #' ##-- Korrelationen Buehl Seite 323
 #' APA_Correlation(~chol0+chol1+chol6+chol12, hyper,
